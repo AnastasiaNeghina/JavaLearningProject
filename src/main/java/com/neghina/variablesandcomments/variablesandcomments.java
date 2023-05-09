@@ -24,7 +24,7 @@ public class variablesandcomments {
 
         falseBooleanVariables = false;
         trueBooleanVariables = true;
-        lowerLimitOfByteDataType = = -128;
+        lowerLimitOfByteDataType = -128;
         upperLimitOfByteDataType = 127;
         lowerLimitOfShortDataType = -32768;
         upperLimitOfShortDataType = 32767;
