@@ -24,7 +24,9 @@ public class variablesandcomments {
 
         falseBooleanVariables = false;
         trueBooleanVariables = true;
-        lowerLimitOfByteDataType = = -128;
+        firstCharAscii = 'a';
+        lastCharAscii = 'Z';
+        lowerLimitOfByteDataType = -128;
         upperLimitOfByteDataType = 127;
         lowerLimitOfShortDataType = -32768;
         upperLimitOfShortDataType = 32767;
@@ -37,5 +39,6 @@ public class variablesandcomments {
         lowerLimitOfDoubleDataType = -1.7E+308d;
         upperLimitOfDoubleDataType = -1.7E+305;
 
+        System.out.println(firstCharAscii);
     }
 }
