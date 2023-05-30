@@ -1,0 +1,3 @@
+Exceptiile sunt de doua tipuri:
+1. verificate;
+2. neverificate;
